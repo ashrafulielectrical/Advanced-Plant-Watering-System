@@ -34,15 +34,15 @@ Once the user runs the program a GUI Window. This GUI includes a `Push` button, 
 * Software Manual Push Button
 > When the button is pressed and held down the pump is turned on for however long the button is held 
 
-![App Screenshot](https://media.giphy.com/media/EMw4WEpVjyUv8aJZ4V/giphy.gif)
-
-* Live Moisture Graph
-> When the program is started the moisture starts reporting the moisture of the soil and the values are plotted appearing in the graph
-
 ![App Screenshot](https://i.imgur.com/YBAGc7Y.jpg)
 
 * OLED Screen Control
 > The slider ranges from values 0 to 100. When the slider is set at any value the OLED screen will display the same number
+
+![App Screenshot](https://media.giphy.com/media/EMw4WEpVjyUv8aJZ4V/giphy.gif)
+
+* Live Moisture Graph
+> When the program is started the moisture starts reporting the moisture of the soil and the values are plotted appearing in the graph
 
 ![App Screenshot](https://media.giphy.com/media/PAzHuHF2IsIRYWN272/giphy-downsized-large.gif)   
 
