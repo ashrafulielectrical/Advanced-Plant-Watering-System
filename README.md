@@ -45,7 +45,7 @@ Once the user runs the program a GUI Window. This GUI includes a `Push` button, 
 * OLED Screen Control
 > The slider ranges from values 0 to 100. When the slider is set at any value the OLED screen will display the same number
 
-![App Screenshot](https://media.giphy.com/media/yG8vojuakb8mnvIHWj/giphy.gif)   
+![App Screenshot](https://media0.giphy.com/media/PAzHuHF2IsIRYWN272/giphy.gif?cid=790b76119aada29ddcef38bc88dcb5975fdfe6aa3a53fc3f&rid=giphy.gif&ct=g)   
 
 ### Setup Image
 
