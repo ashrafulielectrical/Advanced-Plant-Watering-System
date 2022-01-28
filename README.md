@@ -10,7 +10,7 @@ the automated plant watering system in Java with a GUI and new features.
 
 ## How it works  
 
-![App Screenshot](https://media.giphy.com/media/w6kq9zq2x0usB4EdO9/giphy.gif)
+![App Screenshot](https://media.giphy.com/media/yG8vojuakb8mnvIHWj/giphy-downsized-large.gif)
 
 Components Used in Project: 
 
