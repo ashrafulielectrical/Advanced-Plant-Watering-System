@@ -10,7 +10,7 @@ the automated plant watering system in Java with a GUI and new features.
 
 ## How it works  
 
-![App Screenshot](https://media.giphy.com/media/yG8vojuakb8mnvIHWj/giphy-downsized-large.gif)
+![App Screenshot](https://media.giphy.com/media/w6kq9zq2x0usB4EdO9/giphy.gif)
 
 Components Used in Project: 
 
@@ -34,7 +34,7 @@ Once the user runs the program a GUI Window. This GUI includes a `Push` button, 
 * Software Manual Push Button
 > When the button is pressed and held down the pump is turned on for however long the button is held 
 
-![App Screenshot](https://media.giphy.com/media/yG8vojuakb8mnvIHWj/giphy-downsized-large.gif)
+![App Screenshot](https://media0.giphy.com/media/cdU2laAdhWEQoAVwZw/giphy.gif)
 
 * Live Moisture Graph
 
