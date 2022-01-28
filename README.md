@@ -31,7 +31,7 @@ Components Used in Project:
 
 ## Graphical User Interface (GUI) 
 
-Once the user runs the program a GUI Window. This GUI includes a `Push` button, a `Slider`, and a `Graph of the Moisture Reading.` 
+Once the user runs the program a GUI Window. This GUI includes a `Push` button, a `Slider`, and a `Live Graph` of the Moisture Reading. 
 
 * Software Manual Push Button
 > When the button is pressed and held down the pump is turned on for however long the button is held 
