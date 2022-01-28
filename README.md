@@ -34,7 +34,7 @@ Once the user runs the program a GUI Window. This GUI includes a `Push` button, 
 * Software Manual Push Button
 > When the button is pressed and held down the pump is turned on for however long the button is held 
 
-![App Screenshot](https://giphy.com/embed/yG8vojuakb8mnvIHWj)
+![App Screenshot](https://media0.giphy.com/media/PAzHuHF2IsIRYWN272/giphy.gif?cid=790b76119aada29ddcef38bc88dcb5975fdfe6aa3a53fc3f&rid=giphy.gif&ct=g)
 
 * Live Moisture Graph
 
