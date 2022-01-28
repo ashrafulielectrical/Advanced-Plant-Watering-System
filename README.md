@@ -11,6 +11,8 @@ the automated plant watering system in Java with a GUI and new features.
 
 ## How it works  
 
+Once the system is turned on the moisture sensor would read the wetness of the water in voltage. This voltage reading would be compared to the values in the program to see if the soil is too dry or wet. Upon comparison if the soil has enough moisture the program would not do anything a would continue keep monitoring. However if the soil was too dry the voltage would high and this would cause the pump to turn on and start watering the plant. While this is happening the LED on the Grove board would light up for as long as water is being pumped.
+
 ![App Screenshot](https://media.giphy.com/media/w6kq9zq2x0usB4EdO9/giphy.gif)
 
 Components Used in Project: 
