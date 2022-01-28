@@ -27,24 +27,27 @@ Components Used in Project:
 
 ![App Screenshot](https://i.imgur.com/VAEyiEp.png?1)
 
+
 ## Graphical User Interface (GUI) 
 
-Once the user runs the program a GUI Window. This GUI includes a `Push` button, a `Slider`, and a `Live Graph` of the Moisture Reading.
+Once the user runs the program a GUI Window. This GUI includes a `Push` button, a `Slider`, and a `Graph of the Moisture Reading.` 
 
 * Software Manual Push Button
 > When the button is pressed and held down the pump is turned on for however long the button is held 
 
-![GUI](https://media.giphy.com/media/EMw4WEpVjyUv8aJZ4V/giphy.gif)
+![App Screenshot](https://media.giphy.com/media/EMw4WEpVjyUv8aJZ4V/giphy.gif)
+
+
+* Live Moisture Graph
+
+> When the program is started the moisture starts reporting the moisture of the soil and the values are plotted appearing in the graph
+
+![App Screenshot](https://i.imgur.com/YBAGc7Y.jpg)
 
 * OLED Screen Control
 > The slider ranges from values 0 to 100. When the slider is set at any value the OLED screen will display the same number
 
-![App Screenshot](https://media.giphy.com/media/EMw4WEpVjyUv8aJZ4V/giphy.gif)
-
-* Live Moisture Graph
-> When the program is started the moisture starts reporting the moisture of the soil and the values are plotted appearing in the graph
-
-![App Screenshot](https://i.imgur.com/YBAGc7Y.jpg)   
+![App Screenshot](https://media.giphy.com/media/yG8vojuakb8mnvIHWj/giphy.gif)   
 
 ### Setup Image
 
