@@ -34,10 +34,9 @@ Once the user runs the program a GUI Window. This GUI includes a `Push` button, 
 * Software Manual Push Button
 > When the button is pressed and held down the pump is turned on for however long the button is held 
 
-![App Screenshot](https://media.giphy.com/media/PAzHuHF2IsIRYWN272/giphy-downsized-large.gif)
+![App Screenshot](https://media.giphy.com/media/836epHNtRmdCtMP0W1/giphy.gif)
 
 * Live Moisture Graph
-
 > When the program is started the moisture starts reporting the moisture of the soil and the values are plotted appearing in the graph
 
 ![App Screenshot](https://i.imgur.com/YBAGc7Y.jpg)
