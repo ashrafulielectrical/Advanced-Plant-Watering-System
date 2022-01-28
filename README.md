@@ -34,7 +34,7 @@ Once the user runs the program a GUI Window. This GUI includes a `Push` button, 
 * Software Manual Push Button
 > When the button is pressed and held down the pump is turned on for however long the button is held 
 
-
+![GUI](https://media.giphy.com/media/EMw4WEpVjyUv8aJZ4V/giphy.gif)
 
 * OLED Screen Control
 > The slider ranges from values 0 to 100. When the slider is set at any value the OLED screen will display the same number
