@@ -36,7 +36,7 @@ Once the user runs the program a GUI Window. This GUI includes a `Push` button, 
 * Software Manual Push Button
 > When the button is pressed and held down the pump is turned on for however long the button is held 
 
-![App Screenshot](https://media.giphy.com/media/CUlyR28ZjoURaGosaK/giphy.gif)
+![App Screenshot](https://media.giphy.com/media/zHNYCXhnN3FoLxS7nN/giphy-downsized-large.gif)
 
 
 * OLED Screen Control
